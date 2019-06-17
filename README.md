@@ -5,8 +5,7 @@
 
 2. 托盘程序
 
-3.随机下玫瑰花
-
+3. 随机下玫瑰花
 
 程序源码及素材下载：
 https://github.com/watchsnow/ValentineDay.git
