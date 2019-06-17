@@ -9,15 +9,15 @@
 
 
 程序源码及素材下载：
-https://github.com/wenht817/MyLove.git
+https://github.com/watchsnow/ValentineDay.git
 
  
 
 IDE Qt Creator
 
 先上图：
-![start](https://github.com/wenht817/MyLove/raw/master/Screenshots/start.png)
-![underway](https://github.com/wenht817/MyLove/raw/master/Screenshots/underway.png)
+![start](https://github.com/watchsnow/ValentineDay/raw/master/MyLove/Screenshots/start.png)
+![underway](https://github.com/watchsnow/ValentineDay/raw/master/MyLove/Screenshots/underway.png)
 
 部分代码展示：
 
